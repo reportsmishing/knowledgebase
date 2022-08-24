@@ -7,3 +7,9 @@
 ### Free Website to unshorten URL for you: [unshorten.it](https://unshorten.it)
 
 <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/unshorten.png" width="600"/>
+
+### Fancy commandline? Use cURL:
+
+```
+curl -i <shortened URL>
+```

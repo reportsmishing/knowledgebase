@@ -8,20 +8,24 @@
    - [Manually](#manually)
    - [Free Website to unshorten URL](#free-website-to-unshorten-url-for-you-unshortenit)
    - [Using commandline](#fancy-command-line-use-curl)
-   
+- [Various investigations for phishing URLs](#investigations-for-phishing-urls-credits-maltego)   
 
 ## Check redirection of various shortened URLs without clicking on the URL (credits: [aware-online](https://www.aware-online.com/en/investigate-shortened-urls/))
 
 ### Manually 
 
-<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/shortenedurls.png" width="600"/>
+<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/shortenedurls.png" width="400"/>
 
 ### Free Website to unshorten URL: [unshorten.it](https://unshorten.it)
 
-<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/unshorten.png" width="600"/>
+<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/unshorten.png" width="400"/>
 
 ### Fancy command line? Use cURL:
 
 ```
 curl -i <shortened URL>
 ```
+
+## Investigations for phishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))
+
+<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/infographic-phishing.png" width="400"/>

@@ -10,7 +10,8 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [Manually](#manually)
    - [Free Website to unshorten URL](#free-website-to-unshorten-url-unshortenit)
    - [Using commandline](#fancy-command-line-use-curl)
-- [Various investigations for phishing URLs](#investigations-for-phishing-urls-credits-maltego)   
+- [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
+- [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
 - [Phishing Kit Dissection](#phishing-kit-dissection)
 - [SMS Phishing campaigns Collection](#sms-phishing-campaigns-collection)
 
@@ -30,9 +31,13 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 curl -i <shortened URL>
 ```
 
-## Investigations for phishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))
+## Investigations for smishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))
 
 <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/infographic-phishing.png" width="400"/>
+
+## Public Codebase to investigate smishing URLs
+
+[Scripts to investigate smishing URLs](https://github.com/reportsmishing/public_code)
 
 ## Phishing kit dissection
 

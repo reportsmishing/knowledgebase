@@ -14,6 +14,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
 - [Phishing Kit Dissection](#phishing-kit-dissection)
 - [SMS Phishing campaigns Collection](#sms-phishing-campaigns-collection)
+- [Inspecting sourcecode for URLs opening only on mobile](#inspecting-sourcecode-for-urls-opening-only-on-mobile)
 
 ## Check redirection of various shortened URLs without clicking on the URL (credits: [aware-online](https://www.aware-online.com/en/investigate-shortened-urls/))
 
@@ -46,6 +47,14 @@ curl -i <shortened URL>
 ## SMS Phishing campaigns collection
 
 [SMS Phishing Campaigns](https://twitter.com/i/events/1567921325720670209) by @jcybersec
+
+## Inspecting sourcecode for URLs opening only on mobile
+
+[Using safari and physical iPhone](https://appletoolbox.com/use-web-inspector-debug-mobile-safari/#Use_Web_Inspector_to_debug_mobile_Safari)
+
+One can also simply use an iPhone simulator through Xcode and use the web inspector debug using safari.
+
+<img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/xcode_simulator.png" width="300"/> <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/develop_simulator.png" width="500"/>
 
 
 ## 🙏 Support

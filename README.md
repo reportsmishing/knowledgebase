@@ -10,6 +10,9 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [Manually](#manually)
    - [Free Website to unshorten URL](#free-website-to-unshorten-url-unshortenit)
    - [Using commandline](#fancy-command-line-use-curl)
+- [Investigating URL Shorteners](#investigating-url-shorteners)  
+   - [shrtco.de shortened URLs](#shrtcode-shortened-urls)
+   - [rb.gy shortened URLs](#rbgy-shortened-urls)
 - [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
 - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
 - [Phishing Kit Dissection](#phishing-kit-dissection)
@@ -30,6 +33,20 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 
 ```
 curl -i <shortened URL>
+```
+
+## Investigating URL Shorteners
+
+### [shrtco.de](https://shrtco.de/) shortened URLs
+
+```
+https://api.shrtco.de/v2/info?code=<enter code>
+```
+
+### [rb.gy](https://rebrandly.com/) shortened URLs
+
+```
+https://app.rebrandly.com/public/links/share?href=<enter rb.gy link with code>
 ```
 
 ## Investigations for smishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))

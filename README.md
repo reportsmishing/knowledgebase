@@ -1,5 +1,4 @@
 If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/reportsmishing)
-<a href="https://www.buymeacoffee.com/sharad1126" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="93"></a>
 [![twitter](https://img.shields.io/twitter/follow/reportsmishing?style=social)](https://twitter.com/reportsmishing)
 
 # Knowledgebase
@@ -79,9 +78,8 @@ One can also simply use an iPhone simulator through Xcode and use the web inspec
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Freportsmishing%2Fknowledgebase)
 <br>
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/reportsmishing)
-<a href="https://www.buymeacoffee.com/sharad1126" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="93"></a>
 
 <hr>
 <p align="center">
-Developed with ❤️ at University College London
+Developed with ❤️
 </p>

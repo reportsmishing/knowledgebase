@@ -12,6 +12,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
 - [Investigating URL Shorteners](#investigating-url-shorteners)  
    - [shrtco.de shortened URLs](#shrtcode-shortened-urls)
    - [rb.gy shortened URLs](#rbgy-shortened-urls)
+   - [cutt.ly shortened URLs](#cuttly-shortened-urls)
 - [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
 - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
 - [Phishing Kit Dissection](#phishing-kit-dissection)
@@ -46,6 +47,12 @@ https://api.shrtco.de/v2/info?code=<enter code>
 
 ```
 https://app.rebrandly.com/public/links/share?href=<enter rb.gy link with code>
+```
+
+### [cutt.ly](https://cutt.ly) shortened URLs
+
+```
+https://cutt.ly/<short code>-stats
 ```
 
 ## Investigations for smishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))

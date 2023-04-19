@@ -15,6 +15,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [cutt.ly shortened URLs](#cuttly-shortened-urls)
 - [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
 - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
+- [Smishing URL and malware APK collection](#a-collection-of-some-smishing-urls-and-apks-spread-by-smishing)
 - [Phishing Kit Dissection](#phishing-kit-dissection)
 - [SMS Phishing campaigns Collection](#sms-phishing-campaigns-collection)
 - [Inspecting sourcecode for URLs opening only on mobile](#inspecting-sourcecode-for-urls-opening-only-on-mobile)
@@ -62,6 +63,10 @@ https://cutt.ly/<short code>-stats
 ## Public Codebase to investigate smishing URLs
 
 [Scripts to investigate smishing URLs](https://github.com/reportsmishing/public_code)
+
+## A collection of some smishing URLs and APKs spread by smishing
+
+[Virustotal collection of smishing URLs and malware APKs spread through smishing](https://www.virustotal.com/gui/user/cybergeekop/collections)
 
 ## Phishing kit dissection
 

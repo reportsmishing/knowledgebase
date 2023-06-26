@@ -13,6 +13,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [shrtco.de shortened URLs](#shrtcode-shortened-urls)
    - [rb.gy shortened URLs](#rbgy-shortened-urls)
    - [cutt.ly shortened URLs](#cuttly-shortened-urls)
+   - [is.gd/v.gd shortened URLs](#isgdvgd-shortened-urls)
 - [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
 - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
 - [Smishing URL and malware APK collection](#a-collection-of-some-smishing-urls-and-apks-spread-by-smishing)
@@ -38,6 +39,8 @@ curl -i <shortened URL>
 
 ## Investigating URL Shorteners
 
+A fantastic resource on URL shorteners is created by [URLTeam](https://wiki.archiveteam.org/index.php/URLTeam).
+
 ### [shrtco.de](https://shrtco.de/) shortened URLs
 
 ```
@@ -54,6 +57,12 @@ https://app.rebrandly.com/public/links/share?href=<enter rb.gy link with code>
 
 ```
 https://cutt.ly/<short code>-stats
+```
+
+### [is.gd/v.gd](https://is.gd/developers.php) shortened URLs
+
+```
+https://is.gd/forward.php?format=json&callback=myfunction&shorturl=<short-code or shortened URL>
 ```
 
 ## Investigations for smishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))

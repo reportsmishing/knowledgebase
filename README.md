@@ -14,12 +14,13 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [rb.gy shortened URLs](#rbgy-shortened-urls)
    - [cutt.ly shortened URLs](#cuttly-shortened-urls)
    - [is.gd/v.gd shortened URLs](#isgdvgd-shortened-urls)
-- [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego) 
-- [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)  
+- [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego)
+   - [Blogs on SMS Phishing Investigation](#blogs-on-sms-phishing-investigation)
+   - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)
+   - [Inspecting sourcecode for URLs opening only on mobile](#inspecting-source-code-for-urls-opening-only-on-mobile)
 - [Smishing URL and malware APK collection](#a-collection-of-some-smishing-urls-and-apks-spread-by-smishing)
-- [Phishing Kit Dissection](#phishing-kit-dissection)
 - [SMS Phishing campaigns Collection](#sms-phishing-campaigns-collection)
-- [Inspecting sourcecode for URLs opening only on mobile](#inspecting-sourcecode-for-urls-opening-only-on-mobile)
+- [Phishing Kit Dissection](#phishing-kit-dissection)
 
 ## Check redirection of various shortened URLs without clicking on the URL (credits: [aware-online](https://www.aware-online.com/en/investigate-shortened-urls/))
 
@@ -69,6 +70,10 @@ https://is.gd/forward.php?format=json&callback=myfunction&shorturl=<short-code o
 
 <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/infographic-phishing.png" width="400"/>
 
+### Blogs on SMS Phishing investigation
+
+* [Investigating SMS phishing by @BushidoToken](https://blog.bushidotoken.net/2023/07/investigating-sms-phishing-text.html)
+
 ## Public Codebase to investigate smishing URLs
 
 [Scripts to investigate smishing URLs](https://github.com/reportsmishing/public_code)
@@ -85,7 +90,7 @@ https://is.gd/forward.php?format=json&callback=myfunction&shorturl=<short-code o
 
 [SMS Phishing Campaigns](https://twitter.com/i/events/1567921325720670209) by @jcybersec
 
-## Inspecting sourcecode for URLs opening only on mobile
+## Inspecting source code for URLs opening only on mobile
 
 [Using safari and physical iPhone](https://appletoolbox.com/use-web-inspector-debug-mobile-safari/#Use_Web_Inspector_to_debug_mobile_Safari)
 

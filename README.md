@@ -18,7 +18,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [Blogs on SMS Phishing Investigation](#blogs-on-sms-phishing-investigation)
    - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)
    - [Inspecting sourcecode for URLs opening only on mobile](#inspecting-source-code-for-urls-opening-only-on-mobile)
-- [Smishing URL and malware APK collection](#a-collection-of-some-smishing-urls-and-apks-spread-by-smishing)
+- [Smishing URL and malware APK collection](#collection-of-some-malicious-urls-and-apks-spread-by-smishing)
 - [SMS Phishing campaigns Collection](#sms-phishing-campaigns-collection)
 - [Phishing Kit Dissection](#phishing-kit-dissection)
 
@@ -72,31 +72,31 @@ https://is.gd/forward.php?format=json&callback=myfunction&shorturl=<short-code o
 
 ### Blogs on SMS Phishing investigation
 
-* [Investigating SMS phishing by @BushidoToken](https://blog.bushidotoken.net/2023/07/investigating-sms-phishing-text.html)
+* [Investigating SMS phishing](https://blog.bushidotoken.net/2023/07/investigating-sms-phishing-text.html) by [@BushidoToken](https://twitter.com/BushidoToken)
 
-## Public Codebase to investigate smishing URLs
+### Public Codebase to investigate smishing URLs
 
 [Scripts to investigate smishing URLs](https://github.com/reportsmishing/public_code)
 
-## A collection of some smishing URLs and APKs spread by smishing
-
-[Virustotal collection of smishing URLs and malware APKs spread through smishing](https://www.virustotal.com/gui/user/cybergeekop/collections)
-
-## Phishing kit dissection
-
-[NHS Monkeypox phishing kit](https://twitter.com/i/events/1568165527406649344) by @jcybersec
-
-## SMS Phishing campaigns collection
-
-[SMS Phishing Campaigns](https://twitter.com/i/events/1567921325720670209) by @jcybersec
-
-## Inspecting source code for URLs opening only on mobile
+### Inspecting source code for URLs opening only on mobile
 
 [Using safari and physical iPhone](https://appletoolbox.com/use-web-inspector-debug-mobile-safari/#Use_Web_Inspector_to_debug_mobile_Safari)
 
 One can also simply use an iPhone simulator through Xcode and use the web inspector debug using safari.
 
 <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/xcode_simulator.png" width="300"/> <img src="https://github.com/reportsmishing/knowledgebase/blob/main/images/develop_simulator.png" width="500"/>
+
+## Collection of some malicious URLs and APKs spread by Smishing
+
+[Virustotal collection of smishing URLs and malware APKs spread through smishing](https://www.virustotal.com/gui/user/cybergeekop/collections)
+
+### Phishing kit dissection
+
+[NHS Monkeypox phishing kit](https://twitter.com/i/events/1568165527406649344) by [@jcybersec](https://twitter.com/JCyberSec_)
+
+### SMS Phishing campaigns collection
+
+[SMS Phishing Campaigns](https://twitter.com/i/events/1567921325720670209) by [@jcybersec](https://twitter.com/JCyberSec_)
 
 
 ## 🙏 Support

@@ -14,6 +14,7 @@ If this helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor
    - [rb.gy shortened URLs](#rbgy-shortened-urls)
    - [cutt.ly shortened URLs](#cuttly-shortened-urls)
    - [is.gd/v.gd shortened URLs](#isgdvgd-shortened-urls)
+   - [t.ly shortened URLs](#tly-shortened-urls)
 - [Various investigations for smishing URLs](#investigations-for-smishing-urls-credits-maltego)
    - [Blogs on SMS Phishing Investigation](#blogs-on-sms-phishing-investigation)
    - [Scripts to investigate smishing URLs](#public-codebase-to-investigate-smishing-urls)
@@ -64,6 +65,12 @@ https://cutt.ly/<short code>-stats
 
 ```
 https://is.gd/forward.php?format=json&callback=myfunction&shorturl=<short-code or shortened URL>
+```
+
+### [t.ly](https://t.ly/) shortened URLs
+
+```
+https://t.ly/stats?url=<shortened URL>
 ```
 
 ## Investigations for smishing URLs (credits: [maltego](https://www.maltego.com/blog/phishing-attacks-part-2-investigating-phishing-domains/))
